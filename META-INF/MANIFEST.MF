@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: RAP Issue 559495
+Bundle-SymbolicName: com.bitctrl.rap.issue559495
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: BitCtrl Systems GmbH
+Automatic-Module-Name: com.bitctrl.rap.issue559495
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Require-Bundle: org.eclipse.rap.rwt;bundle-version="[3.0.0,4.0.0)"
+Service-Component: OSGI-INF/contribution.xml
