@@ -7,7 +7,6 @@ import org.eclipse.rap.rwt.application.Application;
 import org.eclipse.rap.rwt.application.ApplicationConfiguration;
 import org.eclipse.rap.rwt.client.WebClient;
 
-
 public class BasicApplication implements ApplicationConfiguration {
 
     public void configure(Application application) {

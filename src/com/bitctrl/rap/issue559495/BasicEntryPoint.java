@@ -6,7 +6,7 @@ import org.eclipse.swt.layout.GridLayout;
 import org.eclipse.swt.widgets.Button;
 import org.eclipse.swt.widgets.Composite;
 
-
+@SuppressWarnings("serial")
 public class BasicEntryPoint extends AbstractEntryPoint {
 
     @Override
