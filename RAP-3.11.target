@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pde version="3.6"?>
+<target name="RAP 3.11" sequenceNumber="5">  <locations>    <location includeAllPlatforms="false" includeMode="slicer" includeSource="true" type="InstallableUnit">      <unit id="org.eclipse.rap.equinox.target.feature.feature.group" version="3.11.0.20191211-1200"/>      <unit id="org.eclipse.rap.examples.feature.feature.group" version="3.11.0.20191204-1038"/>      <unit id="org.eclipse.rap.feature.feature.group" version="3.11.0.20191127-1205"/>      <unit id="org.eclipse.rap.sdk.feature.feature.group" version="3.11.0.20191127-1205"/>      <repository location="http://download.eclipse.org/rt/rap/3.11/R-20191211-1651/"/>    </location>  </locations></target>
