@@ -23,7 +23,8 @@ public class Resources {
 			"leaflet/images/marker-shadow.png");
 
 	private static final List<String> SCRIPTS = Arrays.asList(
-			"leaflet/leaflet-src.js");
+			"leaflet/leaflet-src.js",
+			"map.js");
 
 	private static final List<String> STYLES = Arrays.asList(
 			"leaflet/leaflet.css");
